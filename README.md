@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Telegram 每日签到（个人号，纯云端）
 
 这个模板用于给 Telegram 机器人会话每天发送一条签到消息。
@@ -60,3 +61,7 @@ python generate_session.py
 
 - `TG_SESSION` 等同登录凭证，只能放在 GitHub Secrets，不能写进代码。
 - Telegram 可能触发风控，建议固定时间、固定内容，不要高频发送。
+=======
+# whw
+WO DE CANG KU
+>>>>>>> ce8fb1c8202e972bd905f7acf9e3250686b50ea0
